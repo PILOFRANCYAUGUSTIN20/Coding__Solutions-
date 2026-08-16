@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-16T11:12:32.455Z",
+  "updatedAt": "2026-08-16T11:26:58.770Z",
   "problems": [
     {
       "frontendId": "517",
@@ -22,7 +22,7 @@
           "filename": "0517-super-washing-machines.java",
           "path": "leet/0517-super-washing-machines/0517-super-washing-machines.java",
           "sha": "5e2f4e03fab3aa6ef43256e5ff9a6cfd22a4c770",
-          "lastSyncedAt": "2026-08-16T11:12:32.455Z"
+          "lastSyncedAt": "2026-08-16T11:26:58.770Z"
         }
       ]
     }
