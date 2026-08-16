@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy"
+  },
+  "updatedAt": "2026-08-16T10:54:27.865Z",
+  "problems": [
+    {
+      "frontendId": "517",
+      "title": "Super Washing Machines",
+      "slug": "super-washing-machines",
+      "problemName": "0517-super-washing-machines",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/super-washing-machines/",
+      "folderPath": "leet/0517-super-washing-machines/",
+      "readmePath": "leet/0517-super-washing-machines/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0517-super-washing-machines.java",
+          "path": "leet/0517-super-washing-machines/0517-super-washing-machines.java",
+          "sha": "5e2f4e03fab3aa6ef43256e5ff9a6cfd22a4c770",
+          "lastSyncedAt": "2026-08-16T10:54:27.865Z"
+        }
+      ]
+    }
+  ]
+}
