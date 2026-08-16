@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-16T10:54:27.865Z",
+  "updatedAt": "2026-08-16T10:54:36.672Z",
   "problems": [
+    {
+      "frontendId": "63",
+      "title": "Unique Paths II",
+      "slug": "unique-paths-ii",
+      "problemName": "0063-unique-paths-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii/",
+      "folderPath": "leet/0063-unique-paths-ii/",
+      "readmePath": "leet/0063-unique-paths-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0063-unique-paths-ii.java",
+          "path": "leet/0063-unique-paths-ii/0063-unique-paths-ii.java",
+          "sha": "9e102d5959585a68f6682c3f63d766feb8f08c46",
+          "lastSyncedAt": "2026-08-16T10:54:36.672Z"
+        }
+      ]
+    },
     {
       "frontendId": "322",
       "title": "Coin Change",
