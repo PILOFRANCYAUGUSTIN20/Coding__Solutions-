@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-16T10:54:22.521Z",
+  "updatedAt": "2026-08-16T11:02:54.787Z",
   "problems": [
     {
       "frontendId": "175",
@@ -102,7 +102,7 @@
           "filename": "1581-customer-who-visited-but-did-not-make-any-transactions.sql",
           "path": "leet/1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql",
           "sha": "6f886c5264574456ab4ee82e548e8b291a7f1bb6",
-          "lastSyncedAt": "2026-08-16T10:52:56.103Z"
+          "lastSyncedAt": "2026-08-16T11:02:54.787Z"
         }
       ]
     }
