@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array"
+  },
+  "updatedAt": "2026-08-16T10:53:16.787Z",
+  "problems": [
+    {
+      "frontendId": "2958",
+      "title": "Length of Longest Subarray With at Most K Frequency",
+      "slug": "length-of-longest-subarray-with-at-most-k-frequency",
+      "problemName": "2958-length-of-longest-subarray-with-at-most-k-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/",
+      "folderPath": "leet/2958-length-of-longest-subarray-with-at-most-k-frequency/",
+      "readmePath": "leet/2958-length-of-longest-subarray-with-at-most-k-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.java",
+          "path": "leet/2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.java",
+          "sha": "1c71f7f311b4248888089a7d4ed34525e7ecac71",
+          "lastSyncedAt": "2026-08-16T10:53:16.787Z"
+        }
+      ]
+    }
+  ]
+}
