@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-16T11:26:39.316Z",
+  "updatedAt": "2026-08-16T11:27:17.715Z",
   "problems": [
     {
       "frontendId": "102",
@@ -22,7 +22,7 @@
           "filename": "0102-binary-tree-level-order-traversal.java",
           "path": "leet/0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.java",
           "sha": "a83d8e62b355ed3d3cc6f5e9d47501f82ecd95e1",
-          "lastSyncedAt": "2026-08-16T11:12:53.756Z"
+          "lastSyncedAt": "2026-08-16T11:27:17.715Z"
         }
       ]
     },
