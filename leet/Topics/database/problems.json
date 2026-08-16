@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-16T11:26:51.809Z",
+  "updatedAt": "2026-08-16T11:26:54.062Z",
   "problems": [
     {
       "frontendId": "175",
@@ -82,7 +82,7 @@
           "filename": "0577-employee-bonus.sql",
           "path": "leet/0577-employee-bonus/0577-employee-bonus.sql",
           "sha": "d84b8a3923d97f35ec65f72b170f3b4591409f8e",
-          "lastSyncedAt": "2026-08-16T11:12:27.338Z"
+          "lastSyncedAt": "2026-08-16T11:26:54.062Z"
         }
       ]
     },
