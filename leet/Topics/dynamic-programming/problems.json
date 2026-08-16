@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-16T11:12:11.978Z",
+  "updatedAt": "2026-08-16T11:12:36.964Z",
   "problems": [
     {
       "frontendId": "62",
@@ -42,7 +42,7 @@
           "filename": "0063-unique-paths-ii.java",
           "path": "leet/0063-unique-paths-ii/0063-unique-paths-ii.java",
           "sha": "9e102d5959585a68f6682c3f63d766feb8f08c46",
-          "lastSyncedAt": "2026-08-16T11:03:49.878Z"
+          "lastSyncedAt": "2026-08-16T11:12:36.964Z"
         }
       ]
     },
