@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "depth-first-search",
+    "name": "Depth-First Search"
+  },
+  "updatedAt": "2026-08-16T10:53:28.361Z",
+  "problems": [
+    {
+      "frontendId": "733",
+      "title": "Flood Fill",
+      "slug": "flood-fill",
+      "problemName": "0733-flood-fill",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/flood-fill/",
+      "folderPath": "leet/0733-flood-fill/",
+      "readmePath": "leet/0733-flood-fill/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0733-flood-fill.java",
+          "path": "leet/0733-flood-fill/0733-flood-fill.java",
+          "sha": "31816110b74422320ef6191fccaba5eaf5606b01",
+          "lastSyncedAt": "2026-08-16T10:53:28.361Z"
+        }
+      ]
+    }
+  ]
+}
