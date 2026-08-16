@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-08-16T11:27:40.550Z",
+  "updatedAt": "2026-08-16T11:33:10.789Z",
   "problems": [
     {
       "frontendId": "155",
@@ -42,7 +42,7 @@
           "filename": "0232-implement-queue-using-stacks.java",
           "path": "leet/0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.java",
           "sha": "16a03525002be0017433f2e148d1e31c8e1483ad",
-          "lastSyncedAt": "2026-08-16T11:27:32.972Z"
+          "lastSyncedAt": "2026-08-16T11:33:10.789Z"
         }
       ]
     }
