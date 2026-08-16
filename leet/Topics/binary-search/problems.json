@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search"
+  },
+  "updatedAt": "2026-08-16T10:55:21.934Z",
+  "problems": [
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "leet/0704-binary-search/",
+      "readmePath": "leet/0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0704-binary-search.java",
+          "path": "leet/0704-binary-search/0704-binary-search.java",
+          "sha": "f5ee5630b124b4eb80cae38181194e0237a6c8ec",
+          "lastSyncedAt": "2026-08-16T10:55:21.934Z"
+        }
+      ]
+    }
+  ]
+}
