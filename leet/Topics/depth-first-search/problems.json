@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-16T10:53:28.361Z",
+  "updatedAt": "2026-08-16T11:03:11.784Z",
   "problems": [
     {
       "frontendId": "733",
@@ -22,7 +22,7 @@
           "filename": "0733-flood-fill.java",
           "path": "leet/0733-flood-fill/0733-flood-fill.java",
           "sha": "31816110b74422320ef6191fccaba5eaf5606b01",
-          "lastSyncedAt": "2026-08-16T10:53:28.361Z"
+          "lastSyncedAt": "2026-08-16T11:03:11.784Z"
         }
       ]
     }
