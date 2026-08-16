@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-16T11:03:49.878Z",
+  "updatedAt": "2026-08-16T11:04:01.859Z",
   "problems": [
     {
       "frontendId": "48",
@@ -62,7 +62,7 @@
           "filename": "0198-house-robber.java",
           "path": "leet/0198-house-robber/0198-house-robber.java",
           "sha": "ad598c9c822b80cbf9b4999523912ab67a34b213",
-          "lastSyncedAt": "2026-08-16T10:55:00.621Z"
+          "lastSyncedAt": "2026-08-16T11:04:01.859Z"
         }
       ]
     },
