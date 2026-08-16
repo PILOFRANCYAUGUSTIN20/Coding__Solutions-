@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-16T11:31:43.542Z",
+  "updatedAt": "2026-08-16T11:31:51.840Z",
   "problems": [
     {
       "frontendId": "344",
@@ -42,7 +42,7 @@
           "filename": "0424-longest-repeating-character-replacement.java",
           "path": "leet/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.java",
           "sha": "5d79eb1c6409e2ed0ac5974dc705a063fbbc64ed",
-          "lastSyncedAt": "2026-08-16T11:26:17.709Z"
+          "lastSyncedAt": "2026-08-16T11:31:51.840Z"
         }
       ]
     }
