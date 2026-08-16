@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-08-16T11:33:10.789Z",
+  "updatedAt": "2026-08-16T11:33:17.550Z",
   "problems": [
     {
       "frontendId": "155",
@@ -22,7 +22,7 @@
           "filename": "0155-min-stack.java",
           "path": "leet/0155-min-stack/0155-min-stack.java",
           "sha": "cf908cd58905d2248ba220b99f64ada8aa89f824",
-          "lastSyncedAt": "2026-08-16T11:27:40.550Z"
+          "lastSyncedAt": "2026-08-16T11:33:17.550Z"
         }
       ]
     },
