@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-16T11:12:43.005Z",
+  "updatedAt": "2026-08-16T11:13:21.412Z",
   "problems": [
     {
       "frontendId": "48",
@@ -22,7 +22,7 @@
           "filename": "0048-rotate-image.java",
           "path": "leet/0048-rotate-image/0048-rotate-image.java",
           "sha": "947b060cfc2eacb2749a27b14c53f69081023091",
-          "lastSyncedAt": "2026-08-16T11:04:39.440Z"
+          "lastSyncedAt": "2026-08-16T11:13:21.412Z"
         }
       ]
     },
