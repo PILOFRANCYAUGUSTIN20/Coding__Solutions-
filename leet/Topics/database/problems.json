@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-16T11:31:48.666Z",
+  "updatedAt": "2026-08-16T11:32:21.227Z",
   "problems": [
     {
       "frontendId": "175",
@@ -42,7 +42,7 @@
           "filename": "0181-employees-earning-more-than-their-managers.sql",
           "path": "leet/0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers.sql",
           "sha": "36f28c2a1112a6080ec0641102b9a4653558f680",
-          "lastSyncedAt": "2026-08-16T11:26:49.453Z"
+          "lastSyncedAt": "2026-08-16T11:32:21.227Z"
         }
       ]
     },
