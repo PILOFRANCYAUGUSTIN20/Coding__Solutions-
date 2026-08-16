@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers"
+  },
+  "updatedAt": "2026-08-16T10:52:41.355Z",
+  "problems": [
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "leet/0344-reverse-string/",
+      "readmePath": "leet/0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0344-reverse-string.java",
+          "path": "leet/0344-reverse-string/0344-reverse-string.java",
+          "sha": "a8df31928b6c1d3c3fe046eb28033df437defd03",
+          "lastSyncedAt": "2026-08-16T10:52:41.355Z"
+        }
+      ]
+    }
+  ]
+}
