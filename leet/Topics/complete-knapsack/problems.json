@@ -4,7 +4,7 @@
     "slug": "complete-knapsack",
     "name": "Complete Knapsack"
   },
-  "updatedAt": "2026-08-16T11:12:11.978Z",
+  "updatedAt": "2026-08-16T11:26:39.316Z",
   "problems": [
     {
       "frontendId": "322",
@@ -22,7 +22,7 @@
           "filename": "0322-coin-change.java",
           "path": "leet/0322-coin-change/0322-coin-change.java",
           "sha": "97f576dd1f76cde9acd2874ced443078032a1a72",
-          "lastSyncedAt": "2026-08-16T11:12:11.978Z"
+          "lastSyncedAt": "2026-08-16T11:26:39.316Z"
         }
       ]
     }
