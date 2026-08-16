@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-16T11:32:59.015Z",
+  "updatedAt": "2026-08-16T11:33:21.337Z",
   "problems": [
     {
       "frontendId": "48",
@@ -22,7 +22,7 @@
           "filename": "0048-rotate-image.java",
           "path": "leet/0048-rotate-image/0048-rotate-image.java",
           "sha": "947b060cfc2eacb2749a27b14c53f69081023091",
-          "lastSyncedAt": "2026-08-16T11:27:44.749Z"
+          "lastSyncedAt": "2026-08-16T11:33:21.337Z"
         }
       ]
     },
