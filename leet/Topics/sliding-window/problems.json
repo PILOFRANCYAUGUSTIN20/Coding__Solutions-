@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-16T11:31:58.701Z",
+  "updatedAt": "2026-08-19T18:10:05.864Z",
   "problems": [
     {
       "frontendId": "424",
@@ -23,6 +23,26 @@
           "path": "leet/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.java",
           "sha": "5d79eb1c6409e2ed0ac5974dc705a063fbbc64ed",
           "lastSyncedAt": "2026-08-16T11:31:51.840Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "leet/1004-max-consecutive-ones-iii/",
+      "readmePath": "leet/1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1004-max-consecutive-ones-iii.java",
+          "path": "leet/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
+          "sha": "a82d2dfdfaa58913e92913a53f950cdb6453c7ac",
+          "lastSyncedAt": "2026-08-19T18:10:05.864Z"
         }
       ]
     },
