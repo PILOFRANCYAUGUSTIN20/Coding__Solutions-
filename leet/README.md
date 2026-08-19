@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 13 | 11 | 1 |
+| 26 | 14 | 11 | 1 |
 
 ## Activity
 
@@ -26,19 +26,19 @@ Contains topicwise list of solved problems.
 | 2026-07-05 | 2 |
 | 2026-08-13 | 2 |
 | 2026-08-18 | 1 |
-| 2026-08-19 | 4 |
+| 2026-08-19 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 44% |
-| Database | 5 | 20% |
-| Dynamic Programming | 5 | 20% |
-| String | 5 | 20% |
-| Two Pointers | 5 | 20% |
+| Array | 11 | 42% |
+| String | 6 | 23% |
+| Database | 5 | 19% |
+| Dynamic Programming | 5 | 19% |
+| Two Pointers | 5 | 19% |
+| Hash Table | 4 | 15% |
 | Breadth-First Search | 3 | 12% |
-| Hash Table | 3 | 12% |
 | Matrix | 3 | 12% |
 | Design | 2 | 8% |
 | Greedy | 2 | 8% |
@@ -59,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 3 |
+| [Hash Table](Topics/hash-table/) | 4 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
@@ -67,9 +67,9 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 3 |
 | [Queue](Topics/queue/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 1 |
+| [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 6 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
