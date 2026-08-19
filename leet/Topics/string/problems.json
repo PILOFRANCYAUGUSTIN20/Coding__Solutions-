@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-18T04:45:54.073Z",
+  "updatedAt": "2026-08-19T15:03:45.259Z",
   "problems": [
     {
       "frontendId": "49",
@@ -23,6 +23,26 @@
           "path": "leet/0049-group-anagrams/0049-group-anagrams.java",
           "sha": "cceeb169a3eebbdd2e5d956a028393618e602a05",
           "lastSyncedAt": "2026-08-18T04:45:54.073Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "leet/0125-valid-palindrome/",
+      "readmePath": "leet/0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0125-valid-palindrome.java",
+          "path": "leet/0125-valid-palindrome/0125-valid-palindrome.java",
+          "sha": "9f73082cae2c34d6d04ac155909ca3537acd836a",
+          "lastSyncedAt": "2026-08-19T15:03:45.259Z"
         }
       ]
     },
