@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-16T11:32:32.493Z",
+  "updatedAt": "2026-08-19T16:57:50.190Z",
   "problems": [
+    {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "problemName": "0011-container-with-most-water",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "folderPath": "leet/0011-container-with-most-water/",
+      "readmePath": "leet/0011-container-with-most-water/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0011-container-with-most-water.java",
+          "path": "leet/0011-container-with-most-water/0011-container-with-most-water.java",
+          "sha": "bf2290f52f1e0d7e22a381f40a458f729a37a389",
+          "lastSyncedAt": "2026-08-19T16:57:50.190Z"
+        }
+      ]
+    },
     {
       "frontendId": "517",
       "title": "Super Washing Machines",
