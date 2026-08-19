@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-19T17:00:25.240Z",
+  "updatedAt": "2026-08-19T17:01:13.359Z",
   "problems": [
     {
       "frontendId": "11",
@@ -22,7 +22,7 @@
           "filename": "0011-container-with-most-water.java",
           "path": "leet/0011-container-with-most-water/0011-container-with-most-water.java",
           "sha": "bf2290f52f1e0d7e22a381f40a458f729a37a389",
-          "lastSyncedAt": "2026-08-19T17:00:25.240Z"
+          "lastSyncedAt": "2026-08-19T17:01:13.359Z"
         }
       ]
     },
