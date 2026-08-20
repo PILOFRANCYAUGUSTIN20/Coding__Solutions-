@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-08-16T11:33:21.337Z",
+  "updatedAt": "2026-08-20T10:55:57.886Z",
   "problems": [
     {
       "frontendId": "48",
@@ -23,6 +23,26 @@
           "path": "leet/0048-rotate-image/0048-rotate-image.java",
           "sha": "947b060cfc2eacb2749a27b14c53f69081023091",
           "lastSyncedAt": "2026-08-16T11:33:21.337Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "problemName": "0054-spiral-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
+      "folderPath": "leet/0054-spiral-matrix/",
+      "readmePath": "leet/0054-spiral-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0054-spiral-matrix.java",
+          "path": "leet/0054-spiral-matrix/0054-spiral-matrix.java",
+          "sha": "9348128b1031a118ead29a8109c13674f2cde726",
+          "lastSyncedAt": "2026-08-20T10:55:57.886Z"
         }
       ]
     },
