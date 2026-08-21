@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 15 | 12 | 1 |
+| 29 | 15 | 13 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 4 days | 14 |
+| 5 days | 5 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-05-04 | 1 |
 | 2026-06-17 | 3 |
 | 2026-06-18 | 1 |
 | 2026-06-20 | 1 |
@@ -29,20 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-08-19 | 5 |
 | 2026-08-20 | 1 |
 | 2026-08-21 | 1 |
+| 2026-08-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 43% |
+| Array | 12 | 41% |
 | String | 6 | 21% |
-| Database | 5 | 18% |
-| Dynamic Programming | 5 | 18% |
-| Two Pointers | 5 | 18% |
+| Database | 5 | 17% |
+| Dynamic Programming | 5 | 17% |
+| Two Pointers | 5 | 17% |
 | Hash Table | 4 | 14% |
+| Math | 4 | 14% |
 | Matrix | 4 | 14% |
-| Breadth-First Search | 3 | 11% |
-| Math | 3 | 11% |
+| Breadth-First Search | 3 | 10% |
 | Design | 2 | 7% |
 
 ## Topics
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 3 |
+| [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 4 |
 | [prefix-sum](Topics/prefix-sum/) | 0 |
 | [Queue](Topics/queue/) | 1 |
