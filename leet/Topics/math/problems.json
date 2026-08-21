@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-21T18:06:01.203Z",
+  "updatedAt": "2026-08-21T18:09:14.628Z",
   "problems": [
     {
       "frontendId": "48",
@@ -63,6 +63,14 @@
           "path": "leet/2235-add-two-integers/2235-add-two-integers.java",
           "sha": "d16f0d2d8ac548b7b9a00037a131447ba992ea72",
           "lastSyncedAt": "2026-08-21T18:06:01.203Z"
+        },
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2235-add-two-integers.py",
+          "path": "leet/2235-add-two-integers/2235-add-two-integers.py",
+          "sha": "b8bd0011d12dfa5a215862974f26f520898fcf76",
+          "lastSyncedAt": "2026-08-21T18:09:14.628Z"
         }
       ]
     }
