@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-16T11:33:21.337Z",
+  "updatedAt": "2026-08-21T18:06:01.203Z",
   "problems": [
     {
       "frontendId": "48",
@@ -43,6 +43,26 @@
           "path": "leet/0062-unique-paths/0062-unique-paths.java",
           "sha": "12a0855e2d45eccf1ce84a88c67f1f86361045a0",
           "lastSyncedAt": "2026-08-16T11:32:42.222Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2235",
+      "title": "Add Two Integers",
+      "slug": "add-two-integers",
+      "problemName": "2235-add-two-integers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-integers/",
+      "folderPath": "leet/2235-add-two-integers/",
+      "readmePath": "leet/2235-add-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2235-add-two-integers.java",
+          "path": "leet/2235-add-two-integers/2235-add-two-integers.java",
+          "sha": "d16f0d2d8ac548b7b9a00037a131447ba992ea72",
+          "lastSyncedAt": "2026-08-21T18:06:01.203Z"
         }
       ]
     }
