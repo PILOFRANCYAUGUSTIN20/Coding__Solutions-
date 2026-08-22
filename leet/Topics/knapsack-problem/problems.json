@@ -4,7 +4,7 @@
     "slug": "knapsack-problem",
     "name": "Knapsack Problem"
   },
-  "updatedAt": "2026-08-16T11:32:12.320Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "322",
@@ -20,9 +20,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0322-coin-change.java",
-          "path": "leet/0322-coin-change/0322-coin-change.java",
+          "path": "leet/0322-coin-change/Java/0322-coin-change.java",
           "sha": "97f576dd1f76cde9acd2874ced443078032a1a72",
-          "lastSyncedAt": "2026-08-16T11:32:12.320Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }

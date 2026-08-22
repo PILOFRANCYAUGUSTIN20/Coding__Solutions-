@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-19T17:41:43.111Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "49",
@@ -20,9 +20,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0049-group-anagrams.java",
-          "path": "leet/0049-group-anagrams/0049-group-anagrams.java",
+          "path": "leet/0049-group-anagrams/Java/0049-group-anagrams.java",
           "sha": "cceeb169a3eebbdd2e5d956a028393618e602a05",
-          "lastSyncedAt": "2026-08-18T04:45:54.073Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -40,9 +40,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0242-valid-anagram.java",
-          "path": "leet/0242-valid-anagram/0242-valid-anagram.java",
+          "path": "leet/0242-valid-anagram/Java/0242-valid-anagram.java",
           "sha": "8818638a2f830c36eb30cee235658cda314a3c28",
-          "lastSyncedAt": "2026-08-19T17:41:43.111Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -60,9 +60,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0424-longest-repeating-character-replacement.java",
-          "path": "leet/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.java",
+          "path": "leet/0424-longest-repeating-character-replacement/Java/0424-longest-repeating-character-replacement.java",
           "sha": "5d79eb1c6409e2ed0ac5974dc705a063fbbc64ed",
-          "lastSyncedAt": "2026-08-16T11:31:51.840Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -80,9 +80,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.java",
-          "path": "leet/2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.java",
+          "path": "leet/2958-length-of-longest-subarray-with-at-most-k-frequency/Java/2958-length-of-longest-subarray-with-at-most-k-frequency.java",
           "sha": "1c71f7f311b4248888089a7d4ed34525e7ecac71",
-          "lastSyncedAt": "2026-08-16T11:31:58.701Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }

@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-19T17:12:49.842Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "11",
@@ -20,9 +20,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0011-container-with-most-water.java",
-          "path": "leet/0011-container-with-most-water/0011-container-with-most-water.java",
+          "path": "leet/0011-container-with-most-water/Java/0011-container-with-most-water.java",
           "sha": "bf2290f52f1e0d7e22a381f40a458f729a37a389",
-          "lastSyncedAt": "2026-08-19T17:01:13.359Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -40,9 +40,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.java",
-          "path": "leet/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
+          "path": "leet/0028-find-the-index-of-the-first-occurrence-in-a-string/Java/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "32660f68c7c43fa45b7b13982808e6e6a5f5824c",
-          "lastSyncedAt": "2026-08-19T17:12:49.842Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -60,9 +60,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0125-valid-palindrome.java",
-          "path": "leet/0125-valid-palindrome/0125-valid-palindrome.java",
+          "path": "leet/0125-valid-palindrome/Java/0125-valid-palindrome.java",
           "sha": "9f73082cae2c34d6d04ac155909ca3537acd836a",
-          "lastSyncedAt": "2026-08-19T15:03:45.259Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -80,9 +80,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0344-reverse-string.java",
-          "path": "leet/0344-reverse-string/0344-reverse-string.java",
+          "path": "leet/0344-reverse-string/Java/0344-reverse-string.java",
           "sha": "a8df31928b6c1d3c3fe046eb28033df437defd03",
-          "lastSyncedAt": "2026-08-16T11:31:43.542Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -100,9 +100,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0876-middle-of-the-linked-list.java",
-          "path": "leet/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.java",
+          "path": "leet/0876-middle-of-the-linked-list/Java/0876-middle-of-the-linked-list.java",
           "sha": "a05f278b4144561f0447dc66c030e934a093d44a",
-          "lastSyncedAt": "2026-08-16T11:33:04.337Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }

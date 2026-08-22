@@ -4,7 +4,7 @@
     "slug": "z-algorithm",
     "name": "Z Algorithm"
   },
-  "updatedAt": "2026-08-19T17:12:49.842Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "28",
@@ -20,9 +20,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.java",
-          "path": "leet/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
+          "path": "leet/0028-find-the-index-of-the-first-occurrence-in-a-string/Java/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "32660f68c7c43fa45b7b13982808e6e6a5f5824c",
-          "lastSyncedAt": "2026-08-19T17:12:49.842Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }

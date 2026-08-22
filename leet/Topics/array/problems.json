@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-20T10:55:57.886Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "11",
@@ -20,9 +20,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0011-container-with-most-water.java",
-          "path": "leet/0011-container-with-most-water/0011-container-with-most-water.java",
+          "path": "leet/0011-container-with-most-water/Java/0011-container-with-most-water.java",
           "sha": "bf2290f52f1e0d7e22a381f40a458f729a37a389",
-          "lastSyncedAt": "2026-08-19T17:01:13.359Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -40,9 +40,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0048-rotate-image.java",
-          "path": "leet/0048-rotate-image/0048-rotate-image.java",
+          "path": "leet/0048-rotate-image/Java/0048-rotate-image.java",
           "sha": "947b060cfc2eacb2749a27b14c53f69081023091",
-          "lastSyncedAt": "2026-08-16T11:33:21.337Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -60,9 +60,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0049-group-anagrams.java",
-          "path": "leet/0049-group-anagrams/0049-group-anagrams.java",
+          "path": "leet/0049-group-anagrams/Java/0049-group-anagrams.java",
           "sha": "cceeb169a3eebbdd2e5d956a028393618e602a05",
-          "lastSyncedAt": "2026-08-18T04:45:54.073Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -80,9 +80,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0054-spiral-matrix.java",
-          "path": "leet/0054-spiral-matrix/0054-spiral-matrix.java",
+          "path": "leet/0054-spiral-matrix/Java/0054-spiral-matrix.java",
           "sha": "9348128b1031a118ead29a8109c13674f2cde726",
-          "lastSyncedAt": "2026-08-20T10:55:57.886Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -100,9 +100,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0063-unique-paths-ii.java",
-          "path": "leet/0063-unique-paths-ii/0063-unique-paths-ii.java",
+          "path": "leet/0063-unique-paths-ii/Java/0063-unique-paths-ii.java",
           "sha": "9e102d5959585a68f6682c3f63d766feb8f08c46",
-          "lastSyncedAt": "2026-08-16T11:32:37.102Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -120,9 +120,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0121-best-time-to-buy-and-sell-stock.java",
-          "path": "leet/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
+          "path": "leet/0121-best-time-to-buy-and-sell-stock/Java/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "af1efe4c68f6131c37fd30610529230028fb7364",
-          "lastSyncedAt": "2026-08-19T17:29:31.517Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -140,9 +140,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0198-house-robber.java",
-          "path": "leet/0198-house-robber/0198-house-robber.java",
+          "path": "leet/0198-house-robber/Java/0198-house-robber.java",
           "sha": "ad598c9c822b80cbf9b4999523912ab67a34b213",
-          "lastSyncedAt": "2026-08-16T11:32:48.170Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -160,9 +160,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0322-coin-change.java",
-          "path": "leet/0322-coin-change/0322-coin-change.java",
+          "path": "leet/0322-coin-change/Java/0322-coin-change.java",
           "sha": "97f576dd1f76cde9acd2874ced443078032a1a72",
-          "lastSyncedAt": "2026-08-16T11:32:12.320Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -180,9 +180,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0517-super-washing-machines.java",
-          "path": "leet/0517-super-washing-machines/0517-super-washing-machines.java",
+          "path": "leet/0517-super-washing-machines/Java/0517-super-washing-machines.java",
           "sha": "5e2f4e03fab3aa6ef43256e5ff9a6cfd22a4c770",
-          "lastSyncedAt": "2026-08-16T11:32:32.493Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -200,9 +200,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0704-binary-search.java",
-          "path": "leet/0704-binary-search/0704-binary-search.java",
+          "path": "leet/0704-binary-search/Java/0704-binary-search.java",
           "sha": "f5ee5630b124b4eb80cae38181194e0237a6c8ec",
-          "lastSyncedAt": "2026-08-16T11:32:59.015Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -220,9 +220,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0733-flood-fill.java",
-          "path": "leet/0733-flood-fill/0733-flood-fill.java",
+          "path": "leet/0733-flood-fill/Java/0733-flood-fill.java",
           "sha": "31816110b74422320ef6191fccaba5eaf5606b01",
-          "lastSyncedAt": "2026-08-16T11:32:04.742Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -240,9 +240,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "1004-max-consecutive-ones-iii.java",
-          "path": "leet/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
+          "path": "leet/1004-max-consecutive-ones-iii/Java/1004-max-consecutive-ones-iii.java",
           "sha": "a82d2dfdfaa58913e92913a53f950cdb6453c7ac",
-          "lastSyncedAt": "2026-08-19T18:10:05.864Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -260,9 +260,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.java",
-          "path": "leet/2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.java",
+          "path": "leet/2958-length-of-longest-subarray-with-at-most-k-frequency/Java/2958-length-of-longest-subarray-with-at-most-k-frequency.java",
           "sha": "1c71f7f311b4248888089a7d4ed34525e7ecac71",
-          "lastSyncedAt": "2026-08-16T11:31:58.701Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }

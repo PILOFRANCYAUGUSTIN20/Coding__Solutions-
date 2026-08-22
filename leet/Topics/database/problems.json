@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-16T11:32:29.218Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "175",
@@ -20,9 +20,9 @@
           "language": "MySQL",
           "extension": ".sql",
           "filename": "0175-combine-two-tables.sql",
-          "path": "leet/0175-combine-two-tables/0175-combine-two-tables.sql",
+          "path": "leet/0175-combine-two-tables/MySQL/0175-combine-two-tables.sql",
           "sha": "9a564b2e899d5bccd21e2043a953440b850da638",
-          "lastSyncedAt": "2026-08-16T11:32:29.218Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -40,9 +40,9 @@
           "language": "MySQL",
           "extension": ".sql",
           "filename": "0181-employees-earning-more-than-their-managers.sql",
-          "path": "leet/0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers.sql",
+          "path": "leet/0181-employees-earning-more-than-their-managers/MySQL/0181-employees-earning-more-than-their-managers.sql",
           "sha": "36f28c2a1112a6080ec0641102b9a4653558f680",
-          "lastSyncedAt": "2026-08-16T11:32:21.227Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -60,9 +60,9 @@
           "language": "MySQL",
           "extension": ".sql",
           "filename": "0183-customers-who-never-order.sql",
-          "path": "leet/0183-customers-who-never-order/0183-customers-who-never-order.sql",
+          "path": "leet/0183-customers-who-never-order/MySQL/0183-customers-who-never-order.sql",
           "sha": "9e71d0f91b2b19f49e9122898578b6086d405644",
-          "lastSyncedAt": "2026-08-16T11:32:23.686Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -80,9 +80,9 @@
           "language": "MySQL",
           "extension": ".sql",
           "filename": "0577-employee-bonus.sql",
-          "path": "leet/0577-employee-bonus/0577-employee-bonus.sql",
+          "path": "leet/0577-employee-bonus/MySQL/0577-employee-bonus.sql",
           "sha": "d84b8a3923d97f35ec65f72b170f3b4591409f8e",
-          "lastSyncedAt": "2026-08-16T11:32:25.938Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -100,9 +100,9 @@
           "language": "MySQL",
           "extension": ".sql",
           "filename": "1581-customer-who-visited-but-did-not-make-any-transactions.sql",
-          "path": "leet/1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql",
+          "path": "leet/1581-customer-who-visited-but-did-not-make-any-transactions/MySQL/1581-customer-who-visited-but-did-not-make-any-transactions.sql",
           "sha": "6f886c5264574456ab4ee82e548e8b291a7f1bb6",
-          "lastSyncedAt": "2026-08-16T11:31:48.666Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }

@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-08-20T10:55:57.886Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "54",
@@ -20,9 +20,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0054-spiral-matrix.java",
-          "path": "leet/0054-spiral-matrix/0054-spiral-matrix.java",
+          "path": "leet/0054-spiral-matrix/Java/0054-spiral-matrix.java",
           "sha": "9348128b1031a118ead29a8109c13674f2cde726",
-          "lastSyncedAt": "2026-08-20T10:55:57.886Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }

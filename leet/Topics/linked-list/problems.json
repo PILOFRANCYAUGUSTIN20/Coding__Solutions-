@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-16T11:33:04.337Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "876",
@@ -20,9 +20,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0876-middle-of-the-linked-list.java",
-          "path": "leet/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.java",
+          "path": "leet/0876-middle-of-the-linked-list/Java/0876-middle-of-the-linked-list.java",
           "sha": "a05f278b4144561f0447dc66c030e934a093d44a",
-          "lastSyncedAt": "2026-08-16T11:33:04.337Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }

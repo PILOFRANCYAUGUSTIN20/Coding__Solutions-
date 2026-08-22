@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-19T18:10:05.864Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "424",
@@ -20,9 +20,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0424-longest-repeating-character-replacement.java",
-          "path": "leet/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.java",
+          "path": "leet/0424-longest-repeating-character-replacement/Java/0424-longest-repeating-character-replacement.java",
           "sha": "5d79eb1c6409e2ed0ac5974dc705a063fbbc64ed",
-          "lastSyncedAt": "2026-08-16T11:31:51.840Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -40,9 +40,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "1004-max-consecutive-ones-iii.java",
-          "path": "leet/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
+          "path": "leet/1004-max-consecutive-ones-iii/Java/1004-max-consecutive-ones-iii.java",
           "sha": "a82d2dfdfaa58913e92913a53f950cdb6453c7ac",
-          "lastSyncedAt": "2026-08-19T18:10:05.864Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -60,9 +60,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.java",
-          "path": "leet/2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.java",
+          "path": "leet/2958-length-of-longest-subarray-with-at-most-k-frequency/Java/2958-length-of-longest-subarray-with-at-most-k-frequency.java",
           "sha": "1c71f7f311b4248888089a7d4ed34525e7ecac71",
-          "lastSyncedAt": "2026-08-16T11:31:58.701Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }

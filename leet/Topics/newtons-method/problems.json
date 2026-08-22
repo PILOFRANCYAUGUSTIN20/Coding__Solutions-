@@ -4,7 +4,7 @@
     "slug": "newtons-method",
     "name": "Newton's Method"
   },
-  "updatedAt": "2026-08-22T10:08:59.890Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "69",
@@ -20,9 +20,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0069-sqrtx.py",
-          "path": "leet/0069-sqrtx/0069-sqrtx.py",
+          "path": "leet/0069-sqrtx/Python/0069-sqrtx.py",
           "sha": "bd1b28db35bb13134fafc9d432da7861cc125925",
-          "lastSyncedAt": "2026-08-22T10:08:59.890Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }

@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-19T17:01:13.359Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "11",
@@ -20,9 +20,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0011-container-with-most-water.java",
-          "path": "leet/0011-container-with-most-water/0011-container-with-most-water.java",
+          "path": "leet/0011-container-with-most-water/Java/0011-container-with-most-water.java",
           "sha": "bf2290f52f1e0d7e22a381f40a458f729a37a389",
-          "lastSyncedAt": "2026-08-19T17:01:13.359Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -40,9 +40,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0517-super-washing-machines.java",
-          "path": "leet/0517-super-washing-machines/0517-super-washing-machines.java",
+          "path": "leet/0517-super-washing-machines/Java/0517-super-washing-machines.java",
           "sha": "5e2f4e03fab3aa6ef43256e5ff9a6cfd22a4c770",
-          "lastSyncedAt": "2026-08-16T11:32:32.493Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }

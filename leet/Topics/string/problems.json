@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-19T17:41:43.111Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "28",
@@ -20,9 +20,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.java",
-          "path": "leet/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
+          "path": "leet/0028-find-the-index-of-the-first-occurrence-in-a-string/Java/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "32660f68c7c43fa45b7b13982808e6e6a5f5824c",
-          "lastSyncedAt": "2026-08-19T17:12:49.842Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -40,9 +40,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0049-group-anagrams.java",
-          "path": "leet/0049-group-anagrams/0049-group-anagrams.java",
+          "path": "leet/0049-group-anagrams/Java/0049-group-anagrams.java",
           "sha": "cceeb169a3eebbdd2e5d956a028393618e602a05",
-          "lastSyncedAt": "2026-08-18T04:45:54.073Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -60,9 +60,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0125-valid-palindrome.java",
-          "path": "leet/0125-valid-palindrome/0125-valid-palindrome.java",
+          "path": "leet/0125-valid-palindrome/Java/0125-valid-palindrome.java",
           "sha": "9f73082cae2c34d6d04ac155909ca3537acd836a",
-          "lastSyncedAt": "2026-08-19T15:03:45.259Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -80,9 +80,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0242-valid-anagram.java",
-          "path": "leet/0242-valid-anagram/0242-valid-anagram.java",
+          "path": "leet/0242-valid-anagram/Java/0242-valid-anagram.java",
           "sha": "8818638a2f830c36eb30cee235658cda314a3c28",
-          "lastSyncedAt": "2026-08-19T17:41:43.111Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -100,9 +100,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0344-reverse-string.java",
-          "path": "leet/0344-reverse-string/0344-reverse-string.java",
+          "path": "leet/0344-reverse-string/Java/0344-reverse-string.java",
           "sha": "a8df31928b6c1d3c3fe046eb28033df437defd03",
-          "lastSyncedAt": "2026-08-16T11:31:43.542Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -120,9 +120,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0424-longest-repeating-character-replacement.java",
-          "path": "leet/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.java",
+          "path": "leet/0424-longest-repeating-character-replacement/Java/0424-longest-repeating-character-replacement.java",
           "sha": "5d79eb1c6409e2ed0ac5974dc705a063fbbc64ed",
-          "lastSyncedAt": "2026-08-16T11:31:51.840Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }

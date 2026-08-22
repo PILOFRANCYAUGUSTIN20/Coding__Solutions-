@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-22T10:08:59.890Z",
+  "updatedAt": "2026-08-22T10:15:53.071Z",
   "problems": [
     {
       "frontendId": "7",
@@ -20,9 +20,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0007-reverse-integer.py",
-          "path": "leet/0007-reverse-integer/0007-reverse-integer.py",
+          "path": "leet/0007-reverse-integer/Python/0007-reverse-integer.py",
           "sha": "4c480e0b081df744c6c0376d32fdb552547d3ef3",
-          "lastSyncedAt": "2026-08-21T18:38:02.739Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -40,9 +40,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0048-rotate-image.java",
-          "path": "leet/0048-rotate-image/0048-rotate-image.java",
+          "path": "leet/0048-rotate-image/Java/0048-rotate-image.java",
           "sha": "947b060cfc2eacb2749a27b14c53f69081023091",
-          "lastSyncedAt": "2026-08-16T11:33:21.337Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -60,9 +60,9 @@
           "language": "Java",
           "extension": ".java",
           "filename": "0062-unique-paths.java",
-          "path": "leet/0062-unique-paths/0062-unique-paths.java",
+          "path": "leet/0062-unique-paths/Java/0062-unique-paths.java",
           "sha": "12a0855e2d45eccf1ce84a88c67f1f86361045a0",
-          "lastSyncedAt": "2026-08-16T11:32:42.222Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -80,9 +80,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0069-sqrtx.py",
-          "path": "leet/0069-sqrtx/0069-sqrtx.py",
+          "path": "leet/0069-sqrtx/Python/0069-sqrtx.py",
           "sha": "bd1b28db35bb13134fafc9d432da7861cc125925",
-          "lastSyncedAt": "2026-08-22T10:08:59.890Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     },
@@ -100,17 +100,17 @@
           "language": "Java",
           "extension": ".java",
           "filename": "2235-add-two-integers.java",
-          "path": "leet/2235-add-two-integers/2235-add-two-integers.java",
+          "path": "leet/2235-add-two-integers/Java/2235-add-two-integers.java",
           "sha": "d16f0d2d8ac548b7b9a00037a131447ba992ea72",
-          "lastSyncedAt": "2026-08-21T18:06:01.203Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         },
         {
           "language": "Python",
           "extension": ".py",
           "filename": "2235-add-two-integers.py",
-          "path": "leet/2235-add-two-integers/2235-add-two-integers.py",
+          "path": "leet/2235-add-two-integers/Python/2235-add-two-integers.py",
           "sha": "b8bd0011d12dfa5a215862974f26f520898fcf76",
-          "lastSyncedAt": "2026-08-21T18:09:14.628Z"
+          "lastSyncedAt": "2026-08-22T10:15:53.071Z"
         }
       ]
     }
