@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-19T18:10:05.864Z",
+  "updatedAt": "2026-08-22T10:08:59.890Z",
   "problems": [
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "leet/0069-sqrtx/",
+      "readmePath": "leet/0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0069-sqrtx.py",
+          "path": "leet/0069-sqrtx/0069-sqrtx.py",
+          "sha": "bd1b28db35bb13134fafc9d432da7861cc125925",
+          "lastSyncedAt": "2026-08-22T10:08:59.890Z"
+        }
+      ]
+    },
     {
       "frontendId": "704",
       "title": "Binary Search",
