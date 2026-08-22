@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 15 | 13 | 1 |
+| 30 | 16 | 13 | 1 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-08-19 | 5 |
 | 2026-08-20 | 1 |
 | 2026-08-21 | 1 |
-| 2026-08-22 | 1 |
+| 2026-08-22 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 41% |
-| String | 6 | 21% |
+| Array | 12 | 40% |
+| String | 6 | 20% |
 | Database | 5 | 17% |
 | Dynamic Programming | 5 | 17% |
+| Math | 5 | 17% |
 | Two Pointers | 5 | 17% |
-| Hash Table | 4 | 14% |
-| Math | 4 | 14% |
-| Matrix | 4 | 14% |
+| Hash Table | 4 | 13% |
+| Matrix | 4 | 13% |
 | Breadth-First Search | 3 | 10% |
-| Design | 2 | 7% |
+| Binary Search | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 13 |
-| [Binary Search](Topics/binary-search/) | 2 |
+| [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
@@ -65,8 +65,9 @@ Contains topicwise list of solved problems.
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 4 |
+| [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 4 |
+| [Newton's Method](Topics/newtons-method/) | 1 |
 | [prefix-sum](Topics/prefix-sum/) | 0 |
 | [Queue](Topics/queue/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
