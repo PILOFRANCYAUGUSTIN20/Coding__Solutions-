@@ -3,7 +3,7 @@
 // Language: java8
 // Verdict: Accepted
 // URL: https://www.hackerrank.com/challenges/java-primality-test/problem?isFullScreen=true
-// Solved on: 2026-09-05T08:43:24.046Z
+// Solved on: 2026-09-05T08:49:16.932Z
 
 import java.io.*;
 import java.math.*;
@@ -31,12 +31,13 @@ public class Solution {
         for(int i=2;i<=num/2;i++){
             if(num%i == 0){
                 count++;
-                System.out.println("not prime");
-                break;
             }
         }
         if(count == 2){
             System.out.println("prime");
+        }
+        else{
+            System.out.println("not prime");
         }
         
     }
