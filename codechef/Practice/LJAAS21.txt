@@ -1,0 +1,8 @@
+// Problem: LJAAS21
+// Platform: codechef
+// Language: int age = 25;
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/java/LPJAAS03/problems/LJAAS21
+// Solved on: 2026-09-10T09:01:08.086Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
