@@ -1,0 +1,8 @@
+// Problem: JPRACMCQ1
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/java/PJA01/problems/JPRACMCQ1
+// Solved on: 2026-09-12T05:36:50.959Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
