@@ -1,0 +1,8 @@
+// Problem: LJAAS51
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/java/LPJAAS06/problems/LJAAS51
+// Solved on: 2026-09-12T05:52:10.709Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
