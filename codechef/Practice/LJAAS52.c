@@ -12,6 +12,6 @@
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/java/LPJAAS06/problems/LJAAS52
-// Solved on: 2026-09-12T05:52:52.652Z
+// Solved on: 2026-09-12T05:53:03.426Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
