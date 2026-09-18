@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
-// Solved on: 2026-09-18T05:05:01.388Z
+// Solved on: 2026-09-18T05:05:37.433Z
 
 class Solution {
     public int[] getSumAbsoluteDifferences(int[] nums) {
