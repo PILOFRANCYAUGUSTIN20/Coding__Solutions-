@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/ransom-note/
-// Solved on: 2026-09-22T05:48:23.041Z
+// Solved on: 2026-09-22T05:49:09.193Z
 
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
@@ -12,13 +12,13 @@ class Solution {
             return false;
         int[] letters = new int[26];
         
-        for (char c : magazine.toCharArray())
-            letters[c-'a']++;
+        for (char ch : magazine.toCharArray())
+            letters[ch-'a']++;
 
-        for (char c : ransomNote.toCharArray()){
-            if (letters[c-'a'] == 0) 
+        for (char ch : ransomNote.toCharArray()){
+            if (letters[ch-'a'] == 0) 
                 return false;
-            letters[c-'a']--;
+            letters[ch-'a']--;
         }
         return true;
     }
