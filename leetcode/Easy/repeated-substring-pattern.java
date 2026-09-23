@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/repeated-substring-pattern/
-// Solved on: 2026-09-22T14:30:00.347Z
+// Solved on: 2026-09-23T03:59:32.782Z
 
 class Solution {
     public boolean repeatedSubstringPattern(String s) {
