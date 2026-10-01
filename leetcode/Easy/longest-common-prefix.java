@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/longest-common-prefix/
-// Solved on: 2026-10-01T09:20:37.214Z
+// Solved on: 2026-10-01T10:56:51.610Z
 
 class Solution {
     public String longestCommonPrefix(String[] strs) {
