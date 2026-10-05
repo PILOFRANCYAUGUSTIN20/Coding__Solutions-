@@ -2,8 +2,8 @@
 // Platform: hackerrank
 // Language: java
 // Verdict: Accepted
-// URL: https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true
-// Solved on: 2026-08-22T13:52:32.143Z
+// URL: https://www.hackerrank.com/challenges/java-output-formatting/submissions/code/480921066
+// Solved on: 2026-10-05T04:25:58.522Z
 
 import java.util.Scanner;
 
