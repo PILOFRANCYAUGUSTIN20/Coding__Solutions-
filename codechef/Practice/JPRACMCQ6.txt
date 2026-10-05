@@ -1,0 +1,10 @@
+// Problem: JPRACMCQ6
+// Platform: codechef
+// Language: if (X >= 2 * Y) {
+    System.out.println("YES");
+}
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/java/PJA03/problems/JPRACMCQ6
+// Solved on: 2026-10-05T04:57:43.607Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
