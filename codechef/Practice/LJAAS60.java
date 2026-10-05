@@ -3,7 +3,7 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/java/LPJAAS06/problems/LJAAS60
-// Solved on: 2026-09-12T06:08:26.267Z
+// Solved on: 2026-10-05T04:45:57.398Z
 
 import java.util.Scanner;
 
