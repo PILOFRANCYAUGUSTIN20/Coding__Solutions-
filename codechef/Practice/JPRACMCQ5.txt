@@ -1,0 +1,9 @@
+// Problem: JPRACMCQ5
+// Platform: codechef
+// Language: if(a=2):
+    System.out.println(9);
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/java/PJA03/problems/JPRACMCQ5
+// Solved on: 2026-10-05T04:49:02.789Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
