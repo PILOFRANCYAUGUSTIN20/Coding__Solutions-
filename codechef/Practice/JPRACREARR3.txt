@@ -1,0 +1,8 @@
+// Problem: JPRACREARR3
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/java/PJA05/problems/JPRACREARR3
+// Solved on: 2026-10-06T04:31:21.861Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
