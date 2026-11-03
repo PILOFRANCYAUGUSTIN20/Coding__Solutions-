@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-// Solved on: 2026-11-03T05:09:31.163Z
+// Solved on: 2026-11-03T05:55:44.004Z
 
 /**
  * Definition for singly-linked list.
