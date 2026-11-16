@@ -3,7 +3,7 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/java/PJA05/problems/WATERCONS
-// Solved on: 2026-10-06T04:40:26.643Z
+// Solved on: 2026-11-16T06:49:19.519Z
 
 import java.util.*;
 import java.lang.*;
