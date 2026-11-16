@@ -1,0 +1,8 @@
+// Problem: LJAAS108
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/java/LPJAAS11/problems/LJAAS108
+// Solved on: 2026-11-16T06:58:42.153Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
