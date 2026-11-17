@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/permutations/
-// Solved on: 2026-09-21T16:07:25.060Z
+// Solved on: 2026-11-17T06:19:24.921Z
 
 class Solution {
     static void swap(int[] arr, int i, int j) {
