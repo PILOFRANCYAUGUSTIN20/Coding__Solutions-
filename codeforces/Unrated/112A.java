@@ -3,7 +3,7 @@
 // Language: Java
 // Verdict: Accepted
 // URL: 
-// Solved on: 2026-11-24T05:46:31.227Z
+// Solved on: 2026-11-25T07:29:48.388Z
 
 import java.util.*;
 public class Main {
